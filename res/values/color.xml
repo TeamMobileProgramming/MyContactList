@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navbar_background">#1a1a48</color>
+    <color name="toolbar_background">#bebebe</color>
+    <color name="dataentry_background">#c5c5ea</color>
+    <color name="color_red">#ff9999</color>
+    <color name="color_green">#adebeb</color>
+    <color name="color_blue">#9999ff</color>
+    <color name="system_red">#ff0000</color>
+    <color name="system_white">#ffffff</color>
+    <color name="system_blue">#0000ff</color>
+</resources>
